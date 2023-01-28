@@ -825,7 +825,7 @@ img {
 }
 .modal-comment:focus {
     border: 1px solid var(--brand-color);
-    transition-property: background-color, border;
+    transition-property: border;
     transition-duration: 250ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     }
